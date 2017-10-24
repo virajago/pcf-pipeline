@@ -1,5 +1,5 @@
 #!/bin/sh
 
 set -e
-cd demoapp
-#mvn test 
+ls
+#mvn test
