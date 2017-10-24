@@ -9,4 +9,4 @@ inputs:
 - name: demoapp
 
 run:
-  path: demoapp/demoapp/ci/unit_test_app.sh
+  path: ./demoapp/ci/unit_test_app.sh
