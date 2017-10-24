@@ -1,0 +1,6 @@
+---
+applications:
+- name: vj-demoapp-uat
+  memory: 512M
+  host: vj-demoapp-uat
+  instances: 1

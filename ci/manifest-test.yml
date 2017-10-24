@@ -1,0 +1,6 @@
+---
+applications:
+- name: vj-demoapp-test
+  memory: 512M
+  host: vj-demoapp-test
+  instances: 1
