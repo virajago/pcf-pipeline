@@ -2,4 +2,4 @@
 
 set -e
 cd demoapp
-mvn test 
+#mvn test 
